@@ -49,4 +49,14 @@ footer {
       }
     }
   }
+
+  .icp {
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.3s;
+    &:hover {
+      color: var(--n-code-text-color);
+    }
+  }
+}
 </style>
