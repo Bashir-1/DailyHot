@@ -44,7 +44,7 @@ footer {
     margin-bottom: 4px;
     .description {
       &::after {
-        content: "@ Copyright By";
+        content: "@ Copyright By NCC-17039";
         margin: 0 6px;
       }
     }
